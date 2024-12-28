@@ -98,6 +98,7 @@ public class HeapAlpha{
             heapify(arr, maxIdx, size);
         }
     }
+    // hello kavya
     public static void main(String[] args) {
         // heap h1=new heap();
         // h1.insert(1);
